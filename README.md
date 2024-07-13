@@ -9,7 +9,7 @@ The NeuroAI Workshop is an inaugural event dedicated to exploring the intersecti
 ## Event Details
 
 - **Date:** September 6th, 2024
-- **Venue:** Amadou Mahtar Mbow University (UAM), Education Campus, Annex 2, Senegal
+- **Venue:** Annex 2, Amadou Mahtar Mbow University (UAM), Education Campus, Senegal
 - **Contact:** [dlineuroai@gmail.com](mailto:dlineuroai@gmail.com) | +1 (475) 209-3785
 
 ## Highlights
@@ -27,6 +27,6 @@ The NeuroAI Workshop is an inaugural event dedicated to exploring the intersecti
 ## Stay Connected
 
 - Follow us on [Twitter](#) and [LinkedIn](#) for updates.
-- Visit our [website](#) for more information.
+- Visit our [website](https://dlineuroai-workshop.github.io/neuroai-2024/) for more information.
 
 Join us as we pioneer the future of brain-inspired AI and drive technological innovation in Africa!
