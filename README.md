@@ -1,6 +1,6 @@
 # NeuroAI Workshop 2025
 
-Welcome to the official repository for the **NeuroAI Workshop 2025**! This workshop is part of the Deep Learning Indaba Conference, held on September 22nd, 2025, at Amadou Mahtar Mbow University (UAM) in Senegal.
+Welcome to the official repository for the **NeuroAI Workshop 2025**! This workshop is part of the Deep Learning Indaba Conference, held on September 22nd, 2025, at University of Rwanda in Rwanda.
 
 ## About the Workshop
 
