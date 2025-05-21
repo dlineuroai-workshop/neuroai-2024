@@ -1,6 +1,6 @@
-# NeuroAI Workshop 2024
+# NeuroAI Workshop 2025
 
-Welcome to the official repository for the **NeuroAI Workshop 2024**! This workshop is part of the Deep Learning Indaba Conference, held on September 6th, 2024, at Amadou Mahtar Mbow University (UAM) in Senegal.
+Welcome to the official repository for the **NeuroAI Workshop 2025**! This workshop is part of the Deep Learning Indaba Conference, held on September 22nd, 2025, at Amadou Mahtar Mbow University (UAM) in Senegal.
 
 ## About the Workshop
 
@@ -8,8 +8,8 @@ The NeuroAI Workshop is an inaugural event dedicated to exploring the intersecti
 
 ## Event Details
 
-- **Date:** September 6th, 2024
-- **Venue:** Annex 2, Amadou Mahtar Mbow University (UAM), Education Campus, Senegal
+- **Date:** September 22nd, 2025
+- **Venue:** University of Rwanda, Kigali Campus
 - **Contact:** [dlineuroai@gmail.com](mailto:dlineuroai@gmail.com) | +1 (475) 209-3785
 
 ## Highlights
